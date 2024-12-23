@@ -1,4 +1,4 @@
-# "DevOps Mastery: A Comprehensive 6-Month Learning Journey" 
+# DevOps Mastery: A Comprehensive 6-Month Learning Journey
 
 ---
 
