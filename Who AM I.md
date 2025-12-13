@@ -1,6 +1,6 @@
 ### Kumar Saurabh - Executive Leader, Cloud Architect, and Passionate Educator
 
-https://drive.google.com/file/d/1_EXa9oBJlA-glQ7QulBBT5EHytWwzpP-/view
+
 
 
 ---
