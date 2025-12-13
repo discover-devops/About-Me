@@ -2,7 +2,6 @@
 
 https://drive.google.com/file/d/1_EXa9oBJlA-glQ7QulBBT5EHytWwzpP-/view
 
-Here is the **rewritten version with no change in content, only formatting improved** for clarity and presentation — this can be used for LinkedIn summaries, course brochures, trainer bios, or profile web pages:
 
 ---
 
