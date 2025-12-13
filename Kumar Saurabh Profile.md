@@ -3,6 +3,16 @@
 
 **Senior Cloud & DevOps Consultant | Solution Architect | Corporate Trainer**
 
+LinkedIn: https://www.linkedin.com/in/unametechnology/
+
+YouTube: https://www.youtube.com/@discoverdevops5368
+
+GitHub Labs / Repos: https://github.com/discover-devops
+
+Mobile: +91-891-925-9066
+
+Email: unametechnology@outlook.com
+
 ---
 
 ## **Professional Summary**
@@ -154,5 +164,6 @@ GitHub Labs / Repos: https://github.com/discover-devops
 
 Mobile: +91-891-925-9066
 
+Email: unametechnology@outlook.com
 ---
 
