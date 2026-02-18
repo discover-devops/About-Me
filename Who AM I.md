@@ -175,14 +175,10 @@ Multi-cloud certified with deep hands-on experience:
 * **LinkedIn**
 https://www.linkedin.com/in/unametechnology/
 
-* **YouTube**
-https://www.youtube.com/@discoverdevops5368
 
 * **GitHub Labs**
 https://github.com/discover-devops?tab=repositories
 
-* **Profile Link**
-https://drive.google.com/file/d/1_EXa9oBJlA-glQ7QulBBT5EHytWwzpP-/view
 
 ---
 
