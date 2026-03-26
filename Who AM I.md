@@ -1,11 +1,11 @@
-### Kumar Saurabh - Executive Leader, Cloud Architect, and Passionate Educator
+### Kumar Executive Leader, Cloud Architect, and Passionate Educator
 
 
 
 
 ---
 
-## **Kumar Saurabh**
+## **Doscover DevOps**
 
 **Senior Cloud & DevOps Consultant | Solution Architect | Corporate Trainer**
 
@@ -13,7 +13,7 @@
 
 ### **Professional Summary**
 
-I am Kumar Saurabh, a senior Cloud & DevOps Consultant, Solution Architect, and Corporate Trainer with over **19 years of progressive IT experience** spanning global tech giants like **AWS, Microsoft, Oracle, and IBM**.
+I am , a senior Cloud & DevOps Consultant, Solution Architect, and Corporate Trainer with over **19 years of progressive IT experience** spanning global tech giants like **AWS, Microsoft, Oracle, and IBM**.
 
 With a strong foundation in software engineering and deep-rooted expertise in **cloud-native architecture**, **container orchestration**, **automation**, and **DevOps transformation**, I bring a rare combination of hands-on industry experience and mentoring depth.
 
@@ -178,6 +178,11 @@ https://www.linkedin.com/in/unametechnology/
 
 * **GitHub Labs**
 https://github.com/discover-devops?tab=repositories
+
+* **YouTube**
+https://www.youtube.com/@BuildAutomateArchitect
+
+
 
 
 ---
