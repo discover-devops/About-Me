@@ -1,4 +1,4 @@
-### Kumar Executive Leader, Cloud Architect, and Passionate Educator
+### Executive Leader, Cloud Architect, and Passionate Educator
 
 
 
