@@ -1,11 +1,11 @@
 
-## **Kumar Saurabh**
+## **Discover DevOps**
 
 **Senior Cloud & DevOps Consultant | Solution Architect | Corporate Trainer**
 
 LinkedIn: https://www.linkedin.com/in/unametechnology/
 
-YouTube: https://www.youtube.com/@discoverdevops5368
+YouTube: https://www.youtube.com/@BuildAutomateArchitect
 
 GitHub Labs / Repos: https://github.com/discover-devops
 
@@ -17,7 +17,7 @@ Email: unametechnology@outlook.com
 
 ## **Professional Summary**
 
-I am Kumar Saurabh, a senior Cloud & DevOps Consultant, Solution Architect, and Corporate Trainer with **19+ years of progressive IT experience** across global technology leaders including **AWS, Microsoft, Oracle, and IBM**.
+I am a a senior Cloud & DevOps Consultant, Solution Architect, and Corporate Trainer with **19+ years of progressive IT experience** across global technology leaders including **AWS, Microsoft, Oracle, and IBM**.
 
 With a strong foundation in software engineering and deep expertise in **cloud-native architecture, container orchestration, automation, and DevOps transformation**, I bring a rare combination of **hands-on industry execution** and **mentorship-driven training depth**. My work spans designing highly scalable production systems, enabling enterprise cloud adoption, and building job-ready engineering talent through real-world, lab-driven training.
 
@@ -158,7 +158,7 @@ Multi-cloud and DevOps certifications across **AWS, Azure, OCI, Kubernetes, Terr
 
 LinkedIn: https://www.linkedin.com/in/unametechnology/
 
-YouTube: https://www.youtube.com/@discoverdevops5368
+YouTube: [https://www.youtube.com/@discoverdevops5368](https://www.youtube.com/@BuildAutomateArchitect)
 
 GitHub Labs / Repos: https://github.com/discover-devops
 
